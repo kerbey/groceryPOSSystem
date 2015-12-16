@@ -1,0 +1,5 @@
+1 lettuce  $9.00
+2 you are paying 95.0
+3 total   9.0
+4 your change 86.0
+
